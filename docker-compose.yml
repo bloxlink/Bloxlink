@@ -29,7 +29,7 @@ services:
       - SHARDS_PER_CLUSTER=1
       - SHARD_COUNT=1
       - HOSTNAME=bot-0
-      - TOKEN=abc123
+      - TOKEN=Nzc2NjQ1ODA0OTIzOTQ1MDAw.X635xQ.-zRdaCurzJTGAMLlKCTqrQanJLk
       - RETHINKDB_PASSWORD=1
       - RETHINKDB_HOST=rethinkdb
       - RETHINKDB_PORT=28015
