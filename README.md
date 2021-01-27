@@ -36,3 +36,4 @@ We do not provide support for self-hosting! This package has been made open-sour
 For this reason, we recommend using the official hosted bot at https://blox.link which is given regular updates.
 
 Also, keep in mind that we use the AGPL-3.0 License, which means you're required to keep your local version open-source and state all changes that you have made to it.
+# ISoDEVerifySystem
