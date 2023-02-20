@@ -49,7 +49,7 @@ class MemberJoinEvent(Bloxlink.Module):
                     except discord.errors.HTTPException:
                         pass
             else:
-                if auto_verification or auto_roles:
+                if (auto_verification or auto_roles) and guild.get_member(member.id):
                     try:
                         roblox_user = (await get_user(user=member))[0]
                     except UserNotVerified:
